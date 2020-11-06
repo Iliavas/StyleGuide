@@ -5,5 +5,6 @@
   class A:
     def __init__(self): print('object one')
   class B:
-    def __init__(self): print('object two') ```
+    def __init__(self): print('object two') 
+```
  - не правильно
